@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RTK_API_Active.props" />
+</Project>

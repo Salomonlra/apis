@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\helgen\\Documents\\git proyectos\\RTK_API_Active\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDFB889-F868-492E-A8B2-683229CBD8CB}|RTK_API_Active\\RTK_API_Active.csproj|c:\\users\\helgen\\documents\\git proyectos\\rtk_api_active\\rtk_api_active\\controllers\\vectrogpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDFB889-F868-492E-A8B2-683229CBD8CB}|RTK_API_Active\\RTK_API_Active.csproj|solutionrelative:rtk_api_active\\controllers\\vectrogpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDFB889-F868-492E-A8B2-683229CBD8CB}|RTK_API_Active\\RTK_API_Active.csproj|c:\\users\\helgen\\documents\\git proyectos\\rtk_api_active\\rtk_api_active\\rtk_api_active.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3DDFB889-F868-492E-A8B2-683229CBD8CB}|RTK_API_Active\\RTK_API_Active.csproj|solutionrelative:rtk_api_active\\rtk_api_active.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDFB889-F868-492E-A8B2-683229CBD8CB}|RTK_API_Active\\RTK_API_Active.csproj|c:\\users\\helgen\\documents\\git proyectos\\rtk_api_active\\rtk_api_active\\rtk_api_active.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DDFB889-F868-492E-A8B2-683229CBD8CB}|RTK_API_Active\\RTK_API_Active.csproj|solutionrelative:rtk_api_active\\rtk_api_active.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RTK_API_Active.csproj",
+              "DocumentMoniker": "C:\\Users\\helgen\\Documents\\git proyectos\\RTK_API_Active\\RTK_API_Active\\RTK_API_Active.csproj",
+              "RelativeDocumentMoniker": "RTK_API_Active\\RTK_API_Active.csproj",
+              "ToolTip": "C:\\Users\\helgen\\Documents\\git proyectos\\RTK_API_Active\\RTK_API_Active\\RTK_API_Active.csproj",
+              "RelativeToolTip": "RTK_API_Active\\RTK_API_Active.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T17:03:50.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RTK_API_Active.http",
+              "DocumentMoniker": "C:\\Users\\helgen\\Documents\\git proyectos\\RTK_API_Active\\RTK_API_Active\\RTK_API_Active.http",
+              "RelativeDocumentMoniker": "RTK_API_Active\\RTK_API_Active.http",
+              "ToolTip": "C:\\Users\\helgen\\Documents\\git proyectos\\RTK_API_Active\\RTK_API_Active\\RTK_API_Active.http",
+              "RelativeToolTip": "RTK_API_Active\\RTK_API_Active.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-30T17:01:09.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VectroGpsController.cs",
+              "DocumentMoniker": "C:\\Users\\helgen\\Documents\\git proyectos\\RTK_API_Active\\RTK_API_Active\\Controllers\\VectroGpsController.cs",
+              "RelativeDocumentMoniker": "RTK_API_Active\\Controllers\\VectroGpsController.cs",
+              "ToolTip": "C:\\Users\\helgen\\Documents\\git proyectos\\RTK_API_Active\\RTK_API_Active\\Controllers\\VectroGpsController.cs",
+              "RelativeToolTip": "RTK_API_Active\\Controllers\\VectroGpsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:51:22.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+@RTK_API_Active_HostAddress = http://localhost:5069
+
+GET {{RTK_API_Active_HostAddress}}/api/active-rtgs
+Accept: application/json

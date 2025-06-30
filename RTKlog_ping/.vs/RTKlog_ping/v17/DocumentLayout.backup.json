@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\helgen\\Documents\\RTKlog_ping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{926BF93E-0873-4DBC-9A8B-E79BCF5E9E08}|RTKlog_ping\\RTKlog_ping.csproj|c:\\users\\helgen\\documents\\rtklog_ping\\rtklog_ping\\controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926BF93E-0873-4DBC-9A8B-E79BCF5E9E08}|RTKlog_ping\\RTKlog_ping.csproj|solutionrelative:rtklog_ping\\controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926BF93E-0873-4DBC-9A8B-E79BCF5E9E08}|RTKlog_ping\\RTKlog_ping.csproj|c:\\users\\helgen\\documents\\rtklog_ping\\rtklog_ping\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{926BF93E-0873-4DBC-9A8B-E79BCF5E9E08}|RTKlog_ping\\RTKlog_ping.csproj|solutionrelative:rtklog_ping\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926BF93E-0873-4DBC-9A8B-E79BCF5E9E08}|RTKlog_ping\\RTKlog_ping.csproj|c:\\users\\helgen\\documents\\rtklog_ping\\rtklog_ping\\models\\pingresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926BF93E-0873-4DBC-9A8B-E79BCF5E9E08}|RTKlog_ping\\RTKlog_ping.csproj|solutionrelative:rtklog_ping\\models\\pingresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926BF93E-0873-4DBC-9A8B-E79BCF5E9E08}|RTKlog_ping\\RTKlog_ping.csproj|c:\\users\\helgen\\documents\\rtklog_ping\\rtklog_ping\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926BF93E-0873-4DBC-9A8B-E79BCF5E9E08}|RTKlog_ping\\RTKlog_ping.csproj|solutionrelative:rtklog_ping\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926BF93E-0873-4DBC-9A8B-E79BCF5E9E08}|RTKlog_ping\\RTKlog_ping.csproj|c:\\users\\helgen\\documents\\rtklog_ping\\rtklog_ping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926BF93E-0873-4DBC-9A8B-E79BCF5E9E08}|RTKlog_ping\\RTKlog_ping.csproj|solutionrelative:rtklog_ping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926BF93E-0873-4DBC-9A8B-E79BCF5E9E08}|RTKlog_ping\\RTKlog_ping.csproj|c:\\users\\helgen\\documents\\rtklog_ping\\rtklog_ping\\utils\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926BF93E-0873-4DBC-9A8B-E79BCF5E9E08}|RTKlog_ping\\RTKlog_ping.csproj|solutionrelative:rtklog_ping\\utils\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926BF93E-0873-4DBC-9A8B-E79BCF5E9E08}|RTKlog_ping\\RTKlog_ping.csproj|c:\\users\\helgen\\documents\\rtklog_ping\\rtklog_ping\\rtklog_ping.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{926BF93E-0873-4DBC-9A8B-E79BCF5E9E08}|RTKlog_ping\\RTKlog_ping.csproj|solutionrelative:rtklog_ping\\rtklog_ping.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926BF93E-0873-4DBC-9A8B-E79BCF5E9E08}|RTKlog_ping\\RTKlog_ping.csproj|c:\\users\\helgen\\documents\\rtklog_ping\\rtklog_ping\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{926BF93E-0873-4DBC-9A8B-E79BCF5E9E08}|RTKlog_ping\\RTKlog_ping.csproj|solutionrelative:rtklog_ping\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 152,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PingResult.cs",
+              "DocumentMoniker": "C:\\Users\\helgen\\Documents\\RTKlog_ping\\RTKlog_ping\\Models\\PingResult.cs",
+              "RelativeDocumentMoniker": "RTKlog_ping\\Models\\PingResult.cs",
+              "ToolTip": "C:\\Users\\helgen\\Documents\\RTKlog_ping\\RTKlog_ping\\Models\\PingResult.cs",
+              "RelativeToolTip": "RTKlog_ping\\Models\\PingResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:39:55.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\helgen\\Documents\\RTKlog_ping\\RTKlog_ping\\Utils\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "RTKlog_ping\\Utils\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\helgen\\Documents\\RTKlog_ping\\RTKlog_ping\\Utils\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "RTKlog_ping\\Utils\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:19:17.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RTKlog_ping.csproj",
+              "DocumentMoniker": "C:\\Users\\helgen\\Documents\\RTKlog_ping\\RTKlog_ping\\RTKlog_ping.csproj",
+              "RelativeDocumentMoniker": "RTKlog_ping\\RTKlog_ping.csproj",
+              "ToolTip": "C:\\Users\\helgen\\Documents\\RTKlog_ping\\RTKlog_ping\\RTKlog_ping.csproj",
+              "RelativeToolTip": "RTKlog_ping\\RTKlog_ping.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-18T19:17:36.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\helgen\\Documents\\RTKlog_ping\\RTKlog_ping\\appsettings.json",
+              "RelativeDocumentMoniker": "RTKlog_ping\\appsettings.json",
+              "ToolTip": "C:\\Users\\helgen\\Documents\\RTKlog_ping\\RTKlog_ping\\appsettings.json",
+              "RelativeToolTip": "RTKlog_ping\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T20:35:59.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\helgen\\Documents\\RTKlog_ping\\RTKlog_ping\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RTKlog_ping\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\helgen\\Documents\\RTKlog_ping\\RTKlog_ping\\appsettings.Development.json",
+              "RelativeToolTip": "RTKlog_ping\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T20:26:35.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\helgen\\Documents\\RTKlog_ping\\RTKlog_ping\\Program.cs",
+              "RelativeDocumentMoniker": "RTKlog_ping\\Program.cs",
+              "ToolTip": "C:\\Users\\helgen\\Documents\\RTKlog_ping\\RTKlog_ping\\Program.cs",
+              "RelativeToolTip": "RTKlog_ping\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:09:04.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\helgen\\Documents\\RTKlog_ping\\RTKlog_ping\\Controller\\HomeController.cs",
+              "RelativeDocumentMoniker": "RTKlog_ping\\Controller\\HomeController.cs",
+              "ToolTip": "C:\\Users\\helgen\\Documents\\RTKlog_ping\\RTKlog_ping\\Controller\\HomeController.cs",
+              "RelativeToolTip": "RTKlog_ping\\Controller\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:55:01.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\helgen\\Documents\\RTKlog_ping\\RTKlog_ping\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RTKlog_ping\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\helgen\\Documents\\RTKlog_ping\\RTKlog_ping\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "RTKlog_ping\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:54:10.702Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

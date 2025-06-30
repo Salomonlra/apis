@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "RTK_API_Active.Controllers.VectroGpsController",
+    "Method": "GetLatestRecords",
+    "RelativePath": "api/active-rtgs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

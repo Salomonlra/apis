@@ -1,0 +1,23 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "API Activity",
+    "description": "API para gestionar datos de equipos",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/active-rtgs": {
+      "get": {
+        "tags": [
+          "VectroGps"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

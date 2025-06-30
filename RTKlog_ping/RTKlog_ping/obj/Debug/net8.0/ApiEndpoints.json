@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "PingResultsController",
+    "Method": "PostPingResult",
+    "RelativePath": "api/ping-results",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newPingResults",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[RTKlog_ping.Models.PingResult, RTKlog_ping, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PingResultsController",
+    "Method": "GetPingResults",
+    "RelativePath": "api/ping-results",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "from",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "to",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RTKlog_ping.props" />
+</Project>
